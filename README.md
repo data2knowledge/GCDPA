@@ -21,7 +21,7 @@ To get tidy data set, the raw data is cleand as the followings
 
 ### The code book
 
-The code book (HCICodeBook.md) contains the details about tidy data set
+The code book (CodeBook.md) contains the details about tidy data set
 
 * No
 * Variable Name
